@@ -1,0 +1,11 @@
+# Core
+transformers
+accelerate
+datasets
+peft
+bitsandbytes
+sentencepiece
+
+# Optional helpful tools
+trl # (not required, but handy for SFT)
+tqdm
